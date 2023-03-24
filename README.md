@@ -17,3 +17,8 @@ Of Particular Note:
 
 3. PA4 Contains an array implimentation that is designed to be thread protected. This was 
    subsequently used in PA5 as part of a thread safe DNS Lookup Utility. 
+   
+4. PA% Contains a thread safe DNS Lookup Utility that would be able to recieve a list of 
+   web addresses and return their IPs. The address to IP function was given as part of a 
+   document that was lost post VM retirement. Overall this implementation scored well and
+   was able to quickly and efficently process thousands of address and return correct output. 
